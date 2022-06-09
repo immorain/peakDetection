@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 def getpeaks(y,x):
     #smooth 1x ma10 2x ma6 depends on data
