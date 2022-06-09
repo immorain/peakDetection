@@ -24,3 +24,8 @@ Output: list of tuples(X,Y)
         E.G [(1,3),(2,3)]
         
 To Find the throughs of a graph, use maximum points and find minimum points within the maximum point slices
+
+
+References:
+https://stackoverflow.com/questions/20618804/how-to-smooth-a-curve-in-the-right-way
+https://stackoverflow.com/questions/19936033/finding-turning-points-of-an-array-in-python
