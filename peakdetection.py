@@ -1,3 +1,5 @@
+import pandas as pd
+
 def getpeaks(y,x):
     #smooth 1x ma10 2x ma6 depends on data
     y_smooth = smooth(y, 10)
